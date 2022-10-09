@@ -17,7 +17,7 @@ for i in r:
     pgd_list.append(str(data_np[i][column]))
 
 client = commands.Bot(command_prefix='!')
-discord_token = 'OTE1MjUyMzI4MjU1MzUyOTI0.YaY5Jw.GtLTAVkSnpnJUdm7WAlMIRlRHYA'
+discord_token = 'OTE1MjUyMzI4MjU1MzUyOTI0.GMBhTz.o2sc4r-dotzYT03H8eV2RlRAgOHrMsnLnl19js'
 
 
 
